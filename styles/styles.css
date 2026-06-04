@@ -139,7 +139,7 @@ color: #707070;
 }
 .food-sec{
     display: flex;
-    /* margin: 0 auto; */
+   
     justify-content: center;
     gap: 50px;
     margin-bottom: 80px;
